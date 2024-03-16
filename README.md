@@ -30,17 +30,17 @@ This project involved a thorough Exploratory Data Analysis (EDA) on a sizable Am
 Top manufacturers identified as "PC" and "Puma."
 "Accessories" emerged as the leading product category, followed by "women's clothing" and "tv audio & cameras."
 
-Top Rated Brands and Categories:
-
+<b>Top Rated Brands and Categories:</b>
 "Nike" and "Puma" secured top positions as the most highly rated brands with over 300 5-star ratings each.
 "Accessories" garnered the highest number of 5-star ratings, signifying robust customer satisfaction.
-Total Number of Ratings:
 
+<b>Total Number of Ratings:</b>
 Categories such as "tv audio & camera" and "toys & baby products" attracted the highest volume of ratings, indicating significant customer interest.
-Discount Analysis:
 
+<b>Discount Analysis:</b>
 "Women's clothing" boasted the highest average discount percentage, followed closely by "accessories."
 "Home kitchen pets" and "grocery & gourmet foods" exhibited the lowest average discount percentages, potentially due to the nature of these products.
+
 In conclusion, the EDA project yielded valuable insights into Amazon's 2023 product landscape and customer interactions. The cleaned dataset now stands as a reliable foundation for future analyses, including price forecasting, customer segmentation, and recommendation systems. These findings underscore the critical importance of understanding customer preferences and optimizing pricing strategies in the fiercely competitive e-commerce market, enabling businesses to make informed, data-driven decisions and enhance their competitiveness on the Amazon platform.
 
 
