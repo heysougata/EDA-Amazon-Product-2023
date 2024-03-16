@@ -1,6 +1,7 @@
 ### PRODIGY Internship - Data Science
 Task - 2
-# EDA-Amazon-Product-2023
+# Exploratory Data Analysis (EDA) on Amazon's Products
+
 <b>Problem Statement:</b>
 - Perform Data Cleaning and Exploratory Data Analysis (EDA).
 - Identify patterns and trends in the data.
