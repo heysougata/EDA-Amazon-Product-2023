@@ -44,6 +44,8 @@ Categories such as "tv audio & camera" and "toys & baby products" attracted the 
 
 In conclusion, the EDA project yielded valuable insights into Amazon's 2023 product landscape and customer interactions. The cleaned dataset now stands as a reliable foundation for future analyses, including price forecasting, customer segmentation, and recommendation systems. These findings underscore the critical importance of understanding customer preferences and optimizing pricing strategies in the fiercely competitive e-commerce market, enabling businesses to make informed, data-driven decisions and enhance their competitiveness on the Amazon platform.
 
+## Project completed By - Sougata Patra.
+
 
 
 
